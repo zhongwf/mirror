@@ -5,10 +5,10 @@ Chrome浏览器扩展，用360镜像替换google前端库和字体库，以此�
 ![](https://raw.githubusercontent.com/zhongwf/mirror/master/images/ad.gif)
 
 
-![](https://raw.githubusercontent.com/zhongwf/mirror/master/images/logo_false.png)
+![](https://raw.githubusercontent.com/zhongwf/mirror/master/images/disabled.png)
 
 
-![](https://raw.githubusercontent.com/zhongwf/mirror/master/images/logo_true.png)
+![](https://raw.githubusercontent.com/zhongwf/mirror/master/images/enabled.png)
 
 
 
